@@ -1,0 +1,41 @@
+{
+  "name": "light-tipper",
+  "displayName": "light-tipper",
+  "description": "light tipper color theme for vs code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "publisher": "waleedcodes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/waleedcodes/light-tipper.git"
+  },
+  "author": {
+    "name": "Waleed Codes"
+  },
+  "homepage": "",
+  "keywords": [
+    "theme",
+    "light tipper",
+    "waleedcodes",
+    "waleed codes",
+    "light",
+    "waleedcodes theme",
+    "waleed codes light theme",
+    "waleedcode theme"
+  ],
+  "icon": "Theme-logo.jpg",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "waleedcodes",
+        "uiTheme": "vs",
+        "path": "./themes/waleedcodes-color-theme.json"
+      }
+    ]
+  }
+}
